@@ -4,7 +4,7 @@ import { BiLayer, BiMessageAltCheck } from "react-icons/bi";
 
 const Specil = () => {
   return (
-    <div className="max-w-[1024px] mx-auto">
+    <div className="max-w-7xl mx-auto">
       <div className="mx-16 py-24">
         <div>
           <h1 className="text-4xl font-bold">

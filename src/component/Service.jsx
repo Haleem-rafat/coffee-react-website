@@ -3,7 +3,7 @@ import img_3 from "../Assets/Image 3 .png";
 
 const Service = () => {
   return (
-    <div className="max-w-[1024px] mx-auto">
+    <div className="max-w-7xl mx-auto">
       <div className="grid md:grid-cols-2 mx-16 ">
         <div className="py-24">
           <h2 className="text-3xl font-bold">Our service is just for you</h2>

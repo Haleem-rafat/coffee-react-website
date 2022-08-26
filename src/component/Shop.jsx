@@ -6,8 +6,8 @@ import img_4 from "../Assets/Image 7.png";
 
 const shop = () => {
   return (
-    <div className="bg-[#2a2e34] text-white ">
-      <div className="max-w-[1024px] mx-auto py-16">
+    <div id="About Us" className="bg-[#2a2e34] text-white ">
+      <div className="max-w-7xl mx-auto py-16">
         <div className=" flex flex-col ">
           <h3 className=" flex justify-center text-5xl py-4 font-bold">
             Our Shop

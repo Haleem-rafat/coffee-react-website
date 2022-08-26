@@ -4,8 +4,8 @@ import { RiSendPlaneFill } from "react-icons/ri";
 
 const Subscribe = () => {
   return (
-    <div className="max-w-[1024px] mx-auto  text-white py-24 rounded-lg">
-      <div className=" md:rounded-3xl bg-[#2a2e34] py-24 max-w-[1024px] mx-auto">
+    <div className="max-w-7xl mx-auto  text-white py-24 rounded-lg">
+      <div className=" md:rounded-3xl bg-[#2a2e34] py-24 max-w-7xl mx-auto">
         <div className="flex flex-col  ">
           <h3 className=" md:text-5xl md:mx-auto  mx-4 text-4xl ">
             Subscribe to Our News letter

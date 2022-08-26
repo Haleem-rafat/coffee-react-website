@@ -3,7 +3,7 @@ import img_1 from "../Assets/Imag 1.png";
 
 const Hero = () => {
   return (
-    <div className="bg-black text-white  ">
+    <div id="Home" className="bg-black text-white   ">
       <div className=" md:grid md:grid-cols-2 mx-auto max-w-[1240px] grid-cols-1 pt-24  mb-[-90px]">
         <div className=" flex flex-col mx-16 py-24  ">
           <h1 className="md:text-6xl text-4xl font-bold">

@@ -3,8 +3,8 @@ import img_2 from "../Assets/Image 2.png";
 
 const Choose = () => {
   return (
-    <div className="bg-white  ">
-      <div className=" grid md:grid-cols-2 md:max-w-[1024px] mx-auto py-24 gap-2">
+    <div id="Faciluty" className="bg-white  ">
+      <div className=" grid md:grid-cols-2 md:max-w-7xl mx-auto py-24 gap-2">
         <div className="mx-16 ">
           <img src={img_2} />
         </div>

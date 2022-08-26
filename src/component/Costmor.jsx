@@ -4,14 +4,11 @@ import img_man_2 from "../Assets/test_man.png";
 
 const Costmor = () => {
   return (
-    <div className="max-w-[1024px] mx-auto my-24 ">
+    <div className="max-w-7xl mx-auto my-24 ">
       <div className=" grid md:grid-cols-2 items-center ">
-        <div className="bg-[#2a2e34] border rounded-3xl w-[280px] h-[360px]  mx-auto">
-          <div className="absolute">
-            <img
-              className=" relative object-cover md:w-[500px] z-40 left-[-15%] my-6  "
-              src={img_man_2}
-            />
+        <div className="bg-[#2a2e34] border rounded-3xl w-72 h-96  mx-auto  relative">
+          <div className=" absolute bottom-0 -right-10   ">
+            <img className=" w-56" src={img_man_2} alt="" />
           </div>
         </div>
         <div className="mx-16 my-8">
