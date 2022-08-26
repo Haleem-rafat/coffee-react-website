@@ -22,18 +22,30 @@ const shop = () => {
             </p>
           </div>
         </div>
-        <div className="grid  md:grid-cols-3 gap-6 justify-items-center ">
+        <div className="grid  md:grid-cols-3  justify-items-center  gap-5">
           <div className=" col-span-2  ">
-            <img className="object-cover w-full h-full" src={img_1} />
+            <img
+              className="object-cover w-full h-full md:mx-4 mx-0"
+              src={img_1}
+              alt=""
+            />
           </div>
           <div>
-            <img className="object-cover w-full h-full " src={img_2} />
+            <img className="object-cover w-full h-full  " alt="" src={img_2} />
           </div>
           <div>
-            <img className="object-cover w-full h-full" src={img_3} />
+            <img
+              className="object-cover w-full h-full md:mx-12 mx-0 "
+              alt=""
+              src={img_3}
+            />
           </div>
-          <div className=" fit col-span-2">
-            <img src={img_4} />
+          <div className="col-span-2  ">
+            <img
+              className="object-cover w-full h-full md:ml-7 ml-0"
+              alt=""
+              src={img_4}
+            />
           </div>
         </div>
       </div>

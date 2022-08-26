@@ -77,7 +77,7 @@ export const NavBar = () => {
           className={
             nav
               ? "fixed flex flex-col left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500"
-              : "ease-in-out duration-500 fixed left-[-100%]"
+              : "ease-in-out duration-500  fixed flex flex-col left-[-100%] "
           }
         >
           <img className="w-12 py-8 mx-8 my-4  " src={logo} alt="" />
