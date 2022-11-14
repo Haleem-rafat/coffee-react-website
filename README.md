@@ -23,10 +23,10 @@ Tailwind CSS https://tailwindcss.com/ \
 vercel.app https://vercel.com/ 
 
 # advanced style 
-grid display style with tailwind 
-flex display style with tailwind 
-use Pseudo-elements like :hover, :focus, :first-child, and :required
-use Pseudo-class like ::before, ::after, ::placeholder, and ::selection
+grid display style with tailwind \
+flex display style with tailwind \
+use Pseudo-elements like :hover, :focus, :first-child, and :required \
+use Pseudo-class like ::before, ::after, ::placeholder, and ::selection \
 add animations in scrolling  and sidbare in phone responsive 
 
 # suppurt devises 
